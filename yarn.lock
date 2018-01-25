@@ -15,6 +15,8 @@
   resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/@glimmer/di/-/di-0.2.0.tgz#73bfd4a6ee4148a80bf092e8a5d29bcac9d4ce7e"
 
 "@glimmer/resolver@^0.4.1":
+  version "0.4.1"
+  resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/@glimmer/resolver/-/resolver-0.4.1.tgz#cd9644572c556e7e799de1cf8eff2b999cf5b878"
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/@glimmer/resolver/-/resolver-0.4.2.tgz#60c9b492e90bc3956ac82b3134649bd337e1651c"
   dependencies:
@@ -1995,17 +1997,6 @@ commander@2.8.x:
   dependencies:
     graceful-readlink ">= 1.0.0"
 
-<<<<<<< HEAD
-commander@2.9.0:
-  version "2.9.0"
-  resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/commander/-/commander-2.9.0.tgz#9c99094176e12240cb22d6c5146098400fe0f7d4"
-  dependencies:
-    graceful-readlink ">= 1.0.0"
-
-commander@^2.5.0, commander@^2.6.0:
-  version "2.11.0"
-  resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/commander/-/commander-2.11.0.tgz#157152fd1e7a6c8d98a5b715cf376df928004563"
-=======
 commander@^2.5.0, commander@^2.6.0, commander@^2.9.0:
   version "2.13.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.13.0.tgz#6964bca67685df7c1f1430c584f07d7597885b9c"
@@ -2015,7 +2006,6 @@ common-tags@^1.4.0:
   resolved "https://registry.yarnpkg.com/common-tags/-/common-tags-1.7.2.tgz#24d9768c63d253a56ecff93845b44b4df1d52771"
   dependencies:
     babel-runtime "^6.26.0"
->>>>>>> miguelcobain/master
 
 commondir@0.0.1:
   version "0.0.1"
@@ -2051,26 +2041,15 @@ component-inherit@0.0.3:
   version "0.0.3"
   resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/component-inherit/-/component-inherit-0.0.3.tgz#645fc4adf58b72b649d5cae65135619db26ff143"
 
-<<<<<<< HEAD
-compressible@~2.0.10:
-  version "2.0.11"
-  resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/compressible/-/compressible-2.0.11.tgz#16718a75de283ed8e604041625a2064586797d8a"
-=======
 compressible@~2.0.11:
   version "2.0.12"
   resolved "https://registry.yarnpkg.com/compressible/-/compressible-2.0.12.tgz#c59a5c99db76767e9876500e271ef63b3493bd66"
->>>>>>> miguelcobain/master
   dependencies:
     mime-db ">= 1.30.0 < 2"
 
 compression@^1.4.4, compression@^1.6.2:
-<<<<<<< HEAD
-  version "1.7.0"
-  resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/compression/-/compression-1.7.0.tgz#030c9f198f1643a057d776a738e922da4373012d"
-=======
   version "1.7.1"
   resolved "https://registry.yarnpkg.com/compression/-/compression-1.7.1.tgz#eff2603efc2e22cf86f35d2eb93589f9875373db"
->>>>>>> miguelcobain/master
   dependencies:
     accepts "~1.3.4"
     bytes "3.0.0"
@@ -2119,15 +2098,9 @@ console-control-strings@^1.0.0, console-control-strings@~1.1.0:
   version "1.1.0"
   resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/console-control-strings/-/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e"
 
-<<<<<<< HEAD
-console-ui@^1.0.2:
-  version "1.0.3"
-  resolved "https://savoartifactory.jfrog.io/savoartifactory/api/npm/npm-remote/console-ui/-/console-ui-1.0.3.tgz#31c524461b63422769f9e89c173495d91393721c"
-=======
 console-ui@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/console-ui/-/console-ui-2.1.0.tgz#e1d5279d27621a75123d7d594f9fa59f866ea3e3"
->>>>>>> miguelcobain/master
   dependencies:
     chalk "^2.1.0"
     inquirer "^2"
