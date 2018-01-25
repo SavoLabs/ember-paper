@@ -194,11 +194,7 @@ module.exports = {
       'components/fabSpeedDial/fabSpeedDial.scss'
     ];
 
-<<<<<<< HEAD
-    var angularScssFiles = new Funnel(this.pathBase('./lib/material'), {
-=======
-    let angularScssFiles = new Funnel(this.pathBase('angular-material-source'), {
->>>>>>> miguelcobain/master
+    let angularScssFiles = new Funnel(this.pathBase('./lib/material'), {
       files: scssFiles,
       srcDir: '/src',
       destDir: 'angular-material',
