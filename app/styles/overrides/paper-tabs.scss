@@ -1,6 +1,8 @@
 .md-tab {
   font-weight:400;
+  flex: 1 0 auto; // IE clips the tabs without this override
 }
+
 md-tabs.md-default-theme .md-tab,
 md-tabs .md-tab {
   color:#333;
